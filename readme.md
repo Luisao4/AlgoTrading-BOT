@@ -111,4 +111,5 @@ The equity curve represents the total portfolio value over time, stored in the `
 ## Output
 - Console and Telegram logs show data fetches, token changes, signal evaluations, trade actions, and equity updates.
 Expected output:
-![Screenshot](./response.png)
+<img width="560" alt="Screenshot 2025-04-20 at 00 05 48" src="https://github.com/user-attachments/assets/eb2de3cd-6bea-4f61-9dc0-80d64929b57e" />
+
