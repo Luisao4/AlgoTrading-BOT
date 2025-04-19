@@ -1,0 +1,23 @@
+Python
+
+pycache/ *.py[cod] *.pyc
+
+Environment variables
+
+.env
+
+Database files
+
+*.sql *.db
+
+Temporary files
+
+*.log *.txt *.csv src/top_tokens.txt
+
+IDE and editor files
+
+.vscode/ .idea/ *.swp
+
+macOS
+
+.DS_Store
